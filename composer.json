@@ -1,0 +1,12 @@
+{
+  "name": "asanchez75/phpflickr",
+  "description": "PHP Wrapper for the Flickr API",
+  "homepage": "https://github.com/asanchez75/phpflickr",
+  "authors": [
+    {
+      "name": "Dan Coulter",
+      "homepage": "https://github.com/dan-coulter",
+      "role": "Developer"
+    }
+  ]
+}
