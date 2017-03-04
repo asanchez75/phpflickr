@@ -8,5 +8,10 @@
       "homepage": "https://github.com/dan-coulter",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "phpFlickr\\": "src/"
+    }
+  }
 }
